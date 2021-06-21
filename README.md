@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @uNashCS
 - 👀 I’m interested in space, technology, telecomunications
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning CISCO, HTML, C, MikroC
+- 💞️ I’m looking to collaborate on electronics projects
 - 📫 How to reach me ...
 
 <!---
